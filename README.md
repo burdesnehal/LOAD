@@ -66,8 +66,8 @@
 
 
     
-    <div class="row">
-        <h4>Franchise with us!</h4><br>
+    <div class="section">
+        <h4 class="section">FRANCHISE WITH US!</h4><br>
         <p>Want to be a part of Lord of the Drinks family? Become a link in our exciting chain of casual dining by
             franchising with Lord of the drinks!
             <br> Discover the game of thrones ambience and stir up strong relationships,
